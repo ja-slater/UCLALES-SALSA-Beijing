@@ -1,0 +1,5 @@
+This is the set up for 24th November 2016
+
+Set up of meteorology is in sound_in file, aerosol profile is set up in aerosol_in.nc
+
+Changes to aerosol size distributions can be performed through editing the NAMELIST
